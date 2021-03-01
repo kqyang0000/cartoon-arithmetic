@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <output url="file://$MODULE_DIR$/output" />
+    <output-test url="file:///test/cartoon-arithmetic" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/02_数据结构基础/01_数组" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/02_数据结构基础/02_链表" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/02_数据结构基础/03_队列" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
